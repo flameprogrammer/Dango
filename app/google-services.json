@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "480755352794",
+    "firebase_url": "https://dango-36b0f-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "dango-36b0f",
+    "storage_bucket": "dango-36b0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480755352794:android:d93811904f14948e7391e3",
+        "android_client_info": {
+          "package_name": "com.example.project1732"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6m3OlWGcpM3y3EtZpF7g_3_oPASsUHIo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
